@@ -1,5 +1,5 @@
 import React, { useEffect,useState } from 'react';
-import styles from '../style';
+
 
 
 
@@ -49,7 +49,7 @@ const OrderFetched = () => {
                     <dd className="font-light text-gray-500 dark:text-gray-400">Product Listed</dd>
                 </div>
                 <div className="flex flex-col justify-center items-center">
-                    <dt className="mb-2 text-3xl font-extrabold">4M+</dt>
+                    <dt className="mb-2 text-3xl font-extrabold">20+</dt>
                     <dd className="font-light text-gray-500 dark:text-gray-400">Members</dd>
                 </div>
             </dl>
