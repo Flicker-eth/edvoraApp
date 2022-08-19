@@ -33,11 +33,11 @@ const OrderFetched = () => {
                     <dd className="font-light text-gray-500 dark:text-gray-400">Quantity</dd>
                 </div>
                 <div className="flex flex-col justify-center items-center">
-                    <dt className="mb-2 text-3xl font-extrabold">100M+</dt>
+                    <dt className="mb-2 text-3xl font-extrabold">Wine - Toasted Head</dt>
                     <dd className="font-light text-gray-500 dark:text-gray-400">Product Name</dd>
                 </div>
                 <div className="flex flex-col justify-center items-center">
-                    <dt className="mb-2 text-3xl font-extrabold">1000s</dt>
+                    <dt className="mb-2 text-3xl font-extrabold">10/08/2022</dt>
                     <dd className="font-light text-gray-500 dark:text-gray-400">Order Date</dd>
                 </div>
                 <div className="flex flex-col justify-center items-center">
