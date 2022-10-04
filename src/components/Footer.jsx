@@ -27,7 +27,7 @@ const Footer = () =>
         </ul>
     </div>
     <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"/>
-    <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 <a className='text-white bg-black-500 hover:bg-blue-500 border-blue-500 hover:border-blue-500' href="https://github.com/thejerk-eth" >Thejerk™</a>. All Rights Reserved.
+    <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 <a className='text-white bg-black-500 hover:bg-blue-500 border-blue-500 hover:border-blue-500' href="https://github.com/Flicker-eth" >Flicker-eth™</a>. All Rights Reserved.
     </span>
 </footer>
 
