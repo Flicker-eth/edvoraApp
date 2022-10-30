@@ -29,7 +29,7 @@ const OrderFetched = () => {
         
             <dl className="grid grid-cols-2 gap-8 p-4 mx-auto max-w-screen-xl text-gray-900 sm:grid-cols-3 xl:grid-cols-6 dark:text-white sm:p-8">
                 <div className="flex flex-col justify-center items-center">
-                    <dt className="mb-2 text-3xl font-extrabold">{data.user_id}</dt>
+                    <dt className="mb-2 text-3xl font-extrabold">'#'7541</dt>{data.user_id}
                     <dd className="font-light text-gray-500 dark:text-gray-400">Quantity</dd>
                 </div>
                 <div className="flex flex-col justify-center items-center">
@@ -41,7 +41,7 @@ const OrderFetched = () => {
                     <dd className="font-light text-gray-500 dark:text-gray-400">Order Date</dd>
                 </div>
                 <div className="flex flex-col justify-center items-center">
-                    <dt className="mb-2 text-3xl font-extrabold">{data.name}</dt>
+                    <dt className="mb-2 text-3xl font-extrabold">unavailable</dt>
                     <dd className="font-light text-gray-500 dark:text-gray-400">UserName</dd>
                 </div>
                 <div className="flex flex-col justify-center items-center">
